@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/forfun-videos-dev" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/forfun-videos-dev-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/forfun-videos-dev-mapper" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/forfun-videos-dev-miniapi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/forfun-videos-dev-pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/forfun-videos-dev-service" charset="UTF-8" />
+  </component>
+</project>

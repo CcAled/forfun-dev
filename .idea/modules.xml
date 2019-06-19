@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/forfun-videos-dev/forfun-videos-dev.iml" filepath="$PROJECT_DIR$/forfun-videos-dev/forfun-videos-dev.iml" />
+      <module fileurl="file://$PROJECT_DIR$/forfun-videos-dev-common/forfun-videos-dev-common.iml" filepath="$PROJECT_DIR$/forfun-videos-dev-common/forfun-videos-dev-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/forfun-videos-dev-mapper/forfun-videos-dev-mapper.iml" filepath="$PROJECT_DIR$/forfun-videos-dev-mapper/forfun-videos-dev-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/forfun-videos-dev-miniapi/forfun-videos-dev-miniapi.iml" filepath="$PROJECT_DIR$/forfun-videos-dev-miniapi/forfun-videos-dev-miniapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/forfun-videos-dev-pojo/forfun-videos-dev-pojo.iml" filepath="$PROJECT_DIR$/forfun-videos-dev-pojo/forfun-videos-dev-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/forfun-videos-dev-service/forfun-videos-dev-service.iml" filepath="$PROJECT_DIR$/forfun-videos-dev-service/forfun-videos-dev-service.iml" />
+    </modules>
+  </component>
+</project>

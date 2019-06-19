@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="forfun-videos-dev-miniapi:war">
+    <output-path>$PROJECT_DIR$/forfun-videos-dev-miniapi/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>forfun-videos-dev-miniapi</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="forfun-videos-dev-miniapi-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="forfun-videos-dev-miniapi:war exploded" />
+    </root>
+  </artifact>
+</component>
